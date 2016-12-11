@@ -10,7 +10,6 @@ INDEX VERSION 1.129+C:\Users\Bartek\Java\Projekty\GitProjekty\.metadata\.plugins
 3928191382.index
 2250812846.index
 1881185154.index
-3189401522.index
 1631616599.index
 69564303.index
 220789872.index
